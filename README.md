@@ -1,6 +1,5 @@
 ### About Me
 
-`rnd30` = around 30 / Reboot New Direction  
 I started my journey into software development in my early 30s — rebooting my career with passion and purpose.
 
 Currently learning Python, C, and VBA.  
